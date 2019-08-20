@@ -66,9 +66,9 @@ export const TETROMINOES = {
 	// "T"-shaped tetromino
 	T: {
 			 shape: [
-								[0, 	 0, 	0.],
 								['T', 'T', 'T'],
-								[0,   'T',  0 ]
+								[0,   'T',  0 ],
+								[0, 	 0, 	0.],
 							],
 			 color: '227, 78, 78',
 	},
